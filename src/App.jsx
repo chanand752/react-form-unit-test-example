@@ -1,3 +1,4 @@
+/* eslint-disable linebreak-style */
 import React from 'react'
 import Jumbotron from './components/Jumbotron'
 import TitleHeader from './components/TitleHeader'
@@ -21,4 +22,5 @@ const App = () => (
   </div>
 )
 
+// eslint-disable-next-line linebreak-style
 export default App
